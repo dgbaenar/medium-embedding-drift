@@ -1,0 +1,15 @@
+artifact_uri: file:///app/src/mlruns/346539915251316808/6698b7baf3ab4597bdf3bb3961c46f7e/artifacts
+end_time: 1713884599660
+entry_point_name: ''
+experiment_id: '346539915251316808'
+lifecycle_stage: active
+run_id: 6698b7baf3ab4597bdf3bb3961c46f7e
+run_name: upbeat-lark-67
+run_uuid: 6698b7baf3ab4597bdf3bb3961c46f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713883783689
+status: 3
+tags: []
+user_id: root
