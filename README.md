@@ -5,4 +5,4 @@
 
 
 
-https://medium.com/p/249324d34354/edit
+[https://medium.com/p/249324d34354/edit](https://medium.com/@dgbaenar/avoiding-costly-mistakes-a-strategy-for-controlling-embedding-drift-249324d34354)
